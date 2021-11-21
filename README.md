@@ -1,1 +1,1 @@
-# Site Comercial realizado no curso Desenvolvimento de Websites - Frontend
+# Site Comercial realizado no curso Desenvolvimento de Websites - Frontend | Estação Hack
